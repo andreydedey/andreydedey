@@ -1,7 +1,9 @@
 # 💫 Andrey Oliveira
 `Digital Crafstman`
 <div style="display: inline_block">
-  <img height="250em" style="border-radius: 50px;" align="right" src="https://github.com/user-attachments/assets/8ea37027-d527-4b5f-acd9-96049b31982b"/>
+  <img height="250em" style="border-radius: 50px;" align="right" src="https://github.com/user-attachments/assets/4cc0b067-923b-4467-8d15-4dc02e0075d4"
+
+>
 <ul>
   <li>🎓 <strong>Education</strong>: Currently pursuing a degree in Computer Science</li>
   <li>🚀 <strong>Passion</strong>: Learning new tools and technologies for application development ... and gaming sometimes🕹️</li>
