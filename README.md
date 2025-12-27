@@ -6,7 +6,7 @@
 >
 <ul>
   <li>🎓 <strong>Education</strong>: Currently pursuing a degree in Computer Science</li>
-  <li>🚀 <strong>Passion</strong>: Learning new tools and technologies for application development ... and gaming sometimes🕹️</li>
+  <li>🚀 <strong>Passion</strong>: Learning new tools and technologies for application development</li>
   <li>🎯 <strong>Goal</strong>: Aiming to become a Full Stack Engineer, capable of developing great solutions</li>
   <br>
  <p>✨ <code>Feel free to explore my repositories!</code></p>
